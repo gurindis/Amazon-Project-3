@@ -1,6 +1,4 @@
 # Amazon-Project-3
-**All internal Amazon confidential information has been removed from the code. The code only contains publicly available information
-
 Summary: rate_tracker.py collects & calculates 17 different metrics & outputs the data in an excel file, which is saved on the computer
 
 Problem: Amazon delivery station has many different indepedent delivery companies. Each delivery company has 30+ drivers working to deliver Amazon packages. Some drivers are fast & finish delivering their route way before their 10 hour shift. Other drivers are 'slow' & end up bringing back a lot of packages due to their pace. 
