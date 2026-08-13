@@ -2,8 +2,9 @@
 **Summary:**  
 rate_tracker.py (140+ lines of code) collects & calculates 17 different metrics & outputs the data in an excel file, which is saved on the computer  
 
-**Problem:**  
-Amazon delivery station has many different indepedent delivery companies. Each delivery company has 30+ drivers working to deliver Amazon packages. Some drivers are fast & finish delivering their route way before their 10 hour shift. Other drivers are 'slow' & end up bringing back a lot of packages due to their pace   
+Amazon delivery station has many different indepedent delivery companies. Each delivery company has 30+ drivers working to deliver Amazon packages. Some drivers are fast & finish delivering their route way before their 10 hour shift. Other drivers are 'slow' & end up bringing back a lot of packages due to their pace
+
+**Problem:**     
 Amazon website shows all the drivers who are 'behind' & 'at risk' of being behind, but it does not provide actionable metrics  
 
 For example, information about a driver's delivery rate, how many stops a driver will deliver or not deliver based on how much time they have left in their shift & their delivery rate. How much actual delivery time they have left by subtracting planned end time from current time and subtracting the travel time from last stop to delivery station  
